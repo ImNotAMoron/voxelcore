@@ -1,0 +1,21 @@
+{
+    "components": [
+        {
+            "name": "core:mob",
+            "args": {
+                "jump_force": 11.5,
+                "movement_speed": 40.0
+            }
+        },
+        "core:player",
+        "base:player_animator",
+        {
+            "name": "bigplayer:scaler",
+            "args": {
+                "scale": 2.0
+            }
+        }
+    ],
+    "hitbox": [1.2, 3.6, 1.2],
+    "step-height": 1.0
+}

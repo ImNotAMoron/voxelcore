@@ -1,0 +1,10 @@
+{
+    "id": "bigplayer",
+    "title": "Big Player",
+    "version": "1.0",
+    "creator": "ImNotAMoron",
+    "description": "Doubles the player's size so blocks look half as big",
+    "dependencies": [
+        "base"
+    ]
+}
